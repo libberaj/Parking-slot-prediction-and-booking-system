@@ -48,11 +48,6 @@ The parking space detection system uses computer vision techniques to identify a
     pip install -r requirements.txt
     ```
 
-3. **Download Trained Models (if applicable):**
-
-    ```bash
-    # Include instructions if you have pre-trained models
-    ```
 
 ## Usage
 
